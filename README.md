@@ -8,3 +8,5 @@ The library is state and message agnostic.
 Assumptions:
   * Nodes do not crash in the middle of the snapshot.
   * The topology of the network (including the set of nodes) does not change during a snapshot.
+
+![alt text](./Sequence_diagram.png)
